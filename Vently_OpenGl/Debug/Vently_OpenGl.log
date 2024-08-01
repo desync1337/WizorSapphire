@@ -1,0 +1,50 @@
+﻿  AlertBox.cpp
+D:\Projects c++\Vently_OpenGl\NoteButton.h(258,53): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Projects c++\Vently_OpenGl\NoteButton.h(289,93): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+D:\Projects c++\Vently_OpenGl\NoteButton.h(289,93): warning C4244:         with
+D:\Projects c++\Vently_OpenGl\NoteButton.h(289,93): warning C4244:         [
+D:\Projects c++\Vently_OpenGl\NoteButton.h(289,93): warning C4244:             T=float
+D:\Projects c++\Vently_OpenGl\NoteButton.h(289,93): warning C4244:         ]
+D:\Projects c++\Vently_OpenGl\AlertBox.h(117,40): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+D:\Projects c++\Vently_OpenGl\AlertBox.h(117,40): warning C4244:         with
+D:\Projects c++\Vently_OpenGl\AlertBox.h(117,40): warning C4244:         [
+D:\Projects c++\Vently_OpenGl\AlertBox.h(117,40): warning C4244:             T=float
+D:\Projects c++\Vently_OpenGl\AlertBox.h(117,40): warning C4244:         ]
+  Engine.cpp
+D:\Projects c++\Vently_OpenGl\NoteButton.h(258,53): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Projects c++\Vently_OpenGl\NoteButton.h(289,93): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+D:\Projects c++\Vently_OpenGl\NoteButton.h(289,93): warning C4244:         with
+D:\Projects c++\Vently_OpenGl\NoteButton.h(289,93): warning C4244:         [
+D:\Projects c++\Vently_OpenGl\NoteButton.h(289,93): warning C4244:             T=float
+D:\Projects c++\Vently_OpenGl\NoteButton.h(289,93): warning C4244:         ]
+D:\Projects c++\Vently_OpenGl\Engine.cpp(205,15): warning C4353: нестандартное расширение: константа 0 в качестве выражения функции.  Следует заменить на подставляемую функцию "__noop"
+  FileList.cpp
+D:\Projects c++\Vently_OpenGl\NoteButton.h(258,53): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Projects c++\Vently_OpenGl\NoteButton.h(289,93): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+D:\Projects c++\Vently_OpenGl\NoteButton.h(289,93): warning C4244:         with
+D:\Projects c++\Vently_OpenGl\NoteButton.h(289,93): warning C4244:         [
+D:\Projects c++\Vently_OpenGl\NoteButton.h(289,93): warning C4244:             T=float
+D:\Projects c++\Vently_OpenGl\NoteButton.h(289,93): warning C4244:         ]
+  Panel.cpp
+D:\Projects c++\Vently_OpenGl\NoteButton.h(258,53): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Projects c++\Vently_OpenGl\NoteButton.h(289,93): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+D:\Projects c++\Vently_OpenGl\NoteButton.h(289,93): warning C4244:         with
+D:\Projects c++\Vently_OpenGl\NoteButton.h(289,93): warning C4244:         [
+D:\Projects c++\Vently_OpenGl\NoteButton.h(289,93): warning C4244:             T=float
+D:\Projects c++\Vently_OpenGl\NoteButton.h(289,93): warning C4244:         ]
+  SideBar.cpp
+D:\Projects c++\Vently_OpenGl\NoteButton.h(258,53): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Projects c++\Vently_OpenGl\NoteButton.h(289,93): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+D:\Projects c++\Vently_OpenGl\NoteButton.h(289,93): warning C4244:         with
+D:\Projects c++\Vently_OpenGl\NoteButton.h(289,93): warning C4244:         [
+D:\Projects c++\Vently_OpenGl\NoteButton.h(289,93): warning C4244:             T=float
+D:\Projects c++\Vently_OpenGl\NoteButton.h(289,93): warning C4244:         ]
+  main.cpp
+D:\Projects c++\Vently_OpenGl\NoteButton.h(258,53): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Projects c++\Vently_OpenGl\NoteButton.h(289,93): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+D:\Projects c++\Vently_OpenGl\NoteButton.h(289,93): warning C4244:         with
+D:\Projects c++\Vently_OpenGl\NoteButton.h(289,93): warning C4244:         [
+D:\Projects c++\Vently_OpenGl\NoteButton.h(289,93): warning C4244:             T=float
+D:\Projects c++\Vently_OpenGl\NoteButton.h(289,93): warning C4244:         ]
+  Создание кода...
+  Vently_OpenGl.vcxproj -> D:\Projects c++\Vently_OpenGl\Debug\Vently_OpenGl.exe
